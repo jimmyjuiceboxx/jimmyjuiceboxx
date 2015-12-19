@@ -1,9 +1,9 @@
 body#background {
-  background: url('http://www.planwallpaper.com/static/images/i-should-buy-a-boat.jpg') no-repeat  center center fixed; 
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
+	background: url('http://www.planwallpaper.com/static/images/i-should-buy-a-boat.jpg') no-repeat  center center fixed; 
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
 }
 
 	         	
